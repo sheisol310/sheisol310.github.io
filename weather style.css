@@ -19,7 +19,7 @@ span {/*degree symbol*/
   font-size: 6rem;
 }
 
-.container.middle > img {
+div.container.middle > img {
   width: 20px;
   height: 20px;
 }
