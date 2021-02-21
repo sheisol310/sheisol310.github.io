@@ -19,6 +19,11 @@ span {/*degree symbol*/
   font-size: 6rem;
 }
 
+#icon {
+  max-width: 10%;
+  height: auto;
+}
+
 .degree {
   display: grid;
   grid-template-columns: auto auto;
