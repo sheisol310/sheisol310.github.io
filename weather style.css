@@ -20,8 +20,8 @@ span {/*degree symbol*/
 }
 
 img {
-  max-width: 20px;
-  height: auto;
+  width: 20px;
+  height: 20px;
 }
 
 .degree {
